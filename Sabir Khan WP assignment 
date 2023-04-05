@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Web title</title>
+</head>
+<body>
+	<!-- Heading tags from h1 to h6 -->
+	<h1>Heading no  1</h1>
+	<h2>Heading no 2 2</h2>
+	<h3>Heading no  3</h3>
+	<h4>Heading no 4</h4>
+	<h5>Heading no 5</h5>
+	<h6>Heading no 6</h6>
+
+	<!-- Paragraph tag -->
+	<p>This is a paragraph. Complete discription of a paragraph </p>
+
+	<!-- Line break with <br> tag -->
+	<p>This is a paragraph with a line break <br> using the br tag.</p>
+
+	<!-- Line break without <br> tag -->
+	<p>This is a paragraph without a line break using the p tag.</p>
+	<p>Another paragraph without a line break using the p tag.</p>
+
+	<!-- Bold, strong, emphasize and italic tags -->
+	<p>This is a <b>bold</b> text.</p>
+	<p>This is a <strong>strong</strong> text.</p>
+	<p>This is an <em>emphasized</em> text.</p>
+	<p>This is an <i>italic</i> text.</p>
+
+	<!-- List tags -->
+	<ul>
+		<li>Unordered List Item 1</li>
+		<li>Unordered List Item 2</li>
+		<li>Unordered List Item 3</li>
+	</ul>
+
+	<ol>
+		<li>Ordered List Item 1</li>
+		<li>Ordered List Item 2</li>
+		<li>Ordered List Item 3</li>
+	</ol>
+
+	<!-- Table tag -->
+	<table>
+		<thead>
+			<tr>
+				<th>Header 1</th>
+				<th>Header 2</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Row 1, Column 1</td>
+				<td>Row 1, Column 2</td>
+			</tr>
+			<tr>
+				<td>Row 2, Column 1</td>
+				<td>Row 2, Column 2</td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html>
